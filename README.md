@@ -1,16 +1,46 @@
-### Hi there 👋
+# 自己紹介
+早稲田大学商学部4年生です。私は小さい頃から人の悩みを聞いて共に解決することが得意でした。<br>
+中学生の時はテスト前に予想問題を作って配ったり、大学ではプログラミングサークルを立ち上げて勉強方法を教えたりしていました。<br>
+IT化が進みソフトウェア開発の知識は様々な産業で重要になってきますが、ソフトウェア開発を理解している人、<br>
+況や熱意を持って説明してくれる人は不足しています。私は将来それを解決できる人材になれると考えています。<br>
+<br>
 
-<!--
-**AyumuNagae/AyumuNagae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+プログラミング以外の趣味は友達と山や川に虫や魚を取りに行くことです。最近はしていませんが、サッカーも好きです。<br>
+宜しくお願いします。<br>
 
-Here are some ideas to get you started:
+<h2 id="キャリア経歴">簡単なキャリア</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|  期間  |  経歴  |
+| ---- | ---- |
+|  19/4 -23/3  |早稲田大学商学部(現在)|
+|  20/11-21/2  |プログラミングを独学で始める|
+|  21/3 -21/8  |sweeep株式会社でFlutterを使ってモバイルアプリ開発エンジニアとしてインターン|
+|  19/4 -19/12 |soeasy株式会社でRuby on Railsを使ってバックエンドエンジニアとしてインターン|
+
+
+<h2 id="資格">資格</h2>
+
+ITパスポート<br>
+基本情報技術者試験<br>
+TOEIC765<br>
+HSK4級<br>
+AWS-CLF<br>
+
+### 勉強中
+AtCoder<br>
+Figma<br>
+LPIC<br>
+AWS<br>
+Golang<br>
+Flutter<br>
+Python<br>
+
+
+---
+
+
+<h2 id="リンク">リンク</h2>
+
+[Twitter](https://twitter.com/tomonio_ac)
+
+[Qiita](https://qiita.com/Naga_Ayuu)
