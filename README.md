@@ -20,21 +20,10 @@ IT化が進みソフトウェア開発の知識は様々な産業で重要にな
 
 <h2 id="資格">資格</h2>
 
-ITパスポート<br>
-基本情報技術者試験<br>
-TOEIC765<br>
-HSK4級<br>
-AWS-CLF<br>
+ITパスポート、　基本情報技術者試験、　TOEIC765、　HSK4級、　AWS-CLF
 
 ### 勉強中
-AtCoder<br>
-Figma<br>
-LPIC<br>
-AWS<br>
-Golang<br>
-Flutter<br>
-Python<br>
-
+AtCoder、　Figma、　LPIC、　AWS、Golang、　Flutter、　Python
 
 ---
 
