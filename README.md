@@ -21,6 +21,4 @@ AtCoder、　Figma、　LPIC、　AWS、Golang、　Flutter、　Python
 
 <h2 id="リンク">リンク</h2>
 
-[Twitter](https://twitter.com/tomonio_ac)
-
 [Qiita](https://qiita.com/Naga_Ayuu)
