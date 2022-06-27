@@ -20,10 +20,10 @@
 
 
 ### 資格
-ITパスポート、　基本情報技術者試験、　TOEIC765、　HSK4級、　AWS-CLF、paiza(現在A)
+基本情報、　ITパスポート、AWS-CLF、 paiza(Aランク)、　TOEIC765、　HSK4級
 
 ### 勉強中
-AtCoder、　Figma、　LPIC、　AWS、Golang、　Flutter、　Python
+AtCoder、 Python、 AWS、　LPIC、 Golang、　Flutter、　Figma
 
 ---
 
