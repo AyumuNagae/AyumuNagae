@@ -1,11 +1,12 @@
-# 自己紹介
+### 自己紹介
 
 2021/12-2022/4 の間、病気で寝ていました。現在は回復しました。<br>
 12月にドイツへ交換留学するもロシアとウクライナの戦争が始まりプレッシャーを感じました。<br>
 そしてパニック障害のような症状になって帰国しました。**現在はとても元気です。**<br>
 プログラミングを始める前はスターバックスやユニクロでアルバイトをしていました。
 
-<h2 id="キャリア経歴">簡単なキャリア</h2>
+---
+
 
 |  期間  |  経歴  |
 | ---- | ---- |
@@ -15,9 +16,10 @@
 |  21/3 -21/8  |sweeep株式会社でFlutterを使ってモバイルアプリ開発エンジニアとしてインターン|
 |  19/4 -19/12 |soeasy株式会社でRuby on Railsを使ってバックエンドエンジニアとしてインターン|
 
+---
 
-<h2 id="資格">資格</h2>
 
+### 資格
 ITパスポート、　基本情報技術者試験、　TOEIC765、　HSK4級、　AWS-CLF、paiza(現在A)
 
 ### 勉強中
@@ -25,7 +27,13 @@ AtCoder、　Figma、　LPIC、　AWS、Golang、　Flutter、　Python
 
 ---
 
-
-<h2 id="リンク">リンク</h2>
+### リンク
 
 [Qiita](https://qiita.com/Naga_Ayuu)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyumuNagae&layout=compact)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyumuNagae)
+
