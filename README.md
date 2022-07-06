@@ -26,6 +26,9 @@
 ### 勉強中
 AtCoder、 Python、 AWS、　LPIC、 Golang、　Flutter、　Figma、 TypeScript
 
+### 今年の目標
+AWS7冠(CLF,SAA,SOA,DVA,SAP,SCS,DBS)、　LPIC3、　AtCoder茶
+
 ---
 
 ### リンク
