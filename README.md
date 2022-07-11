@@ -24,7 +24,7 @@
 基本情報、　ITパスポート、AWS-CLF、 paiza(Aランク)、　TOEIC765、　HSK4級
 
 ### 勉強中
-AtCoder、 Python、 TypeScript、　Flutter、 AWS
+AtCoder、 Python、 TypeScript、AWS
 
 ### 今年の目標
 AWS7冠(CLF,SAA,SOA,DVA,SAP,SCS,DBS)、　LPIC3、　AtCoder茶
